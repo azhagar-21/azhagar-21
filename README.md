@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azhagar-21" alt="azhagar-21" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Web development, Python**
 
 - 📫 How to reach me **azhagars21@gmail.com**
 
